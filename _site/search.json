@@ -1,31 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about/about.html",
+    "href": "about/about.html",
     "title": "About me",
     "section": "",
     "text": "Michael Edem Fiagbenu  is a Postdoctoral researcher and Lecturer at the Department of Social Psychology at Friedrich Schiller University Jena."
   },
   {
-    "objectID": "about.html#bio",
-    "href": "about.html#bio",
+    "objectID": "about/about.html#bio",
+    "href": "about/about.html#bio",
     "title": "About me",
     "section": "",
     "text": "Michael Edem Fiagbenu  is a Postdoctoral researcher and Lecturer at the Department of Social Psychology at Friedrich Schiller University Jena."
   },
   {
-    "objectID": "about.html#qualifications",
-    "href": "about.html#qualifications",
+    "objectID": "about/about.html#qualifications",
+    "href": "about/about.html#qualifications",
     "title": "About me",
     "section": "Qualifications",
-    "text": "Qualifications\n\nDPhil, Friedrich Schiller University, 2022\nMSc, Norwegian University of Science and Technology (NTNT-Trondheim), 2009\nBSc, University of Ghana, 2009\n\nHere is a list of news articles about my research."
+    "text": "Qualifications\n\nDPhil (2022) Psychology, Friedrich Schiller University\nMSc (2012) Neuroscience, Norwegian University of Science and Technology\nBSc (2009) Psychology, University of Ghana\n\nHere is a list of news articles about my research."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Michael Edem Fiagbenu",
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Michael Edem Fiagbenu Post-doctoral Research and Lecturer Department of Social Psychology Friedrich Schiller Univesity Jena"
+    "text": "The psychology of political ideology and social inequality\nEmpirical Practicals in Psychology"
+  },
+  {
+    "objectID": "Teaching.html#bachelor-courses",
+    "href": "Teaching.html#bachelor-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "The psychology of political ideology and social inequality\nEmpirical Practicals in Psychology"
+  },
+  {
+    "objectID": "Teaching.html#master-courses",
+    "href": "Teaching.html#master-courses",
+    "title": "Teaching",
+    "section": "Master courses",
+    "text": "Master courses\n\nSocial cognition and social neuroscience\nThe suprising origins and left and right-wing political and conspiracy beliefs"
   },
   {
     "objectID": "Research.html",
@@ -63,31 +77,17 @@
     "text": "In the news"
   },
   {
-    "objectID": "Teaching.html",
-    "href": "Teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "The psychology of political ideology and social inequality\nEmpirical Practicals in Psychology"
-  },
-  {
-    "objectID": "Teaching.html#bachelor-courses",
-    "href": "Teaching.html#bachelor-courses",
-    "title": "Teaching",
-    "section": "",
-    "text": "The psychology of political ideology and social inequality\nEmpirical Practicals in Psychology"
-  },
-  {
-    "objectID": "Teaching.html#master-courses",
-    "href": "Teaching.html#master-courses",
-    "title": "Teaching",
-    "section": "Master courses",
-    "text": "Master courses\n\nSocial cognition and social neuroscience\nThe suprising origins and left and right-wing political and conspiracy beliefs"
-  },
-  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "In the news",
     "section": "",
     "text": "The Jena Summer School Project\nNew study suggests conservatives are no more fearful or threat-sensitive than liberals"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Edem Fiagbenu",
+    "section": "",
+    "text": "Michael Edem Fiagbenu Post-doctoral Research and Lecturer Department of Social Psychology Friedrich Schiller Univesity Jena"
   }
 ]
