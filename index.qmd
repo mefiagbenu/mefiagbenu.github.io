@@ -1,11 +1,19 @@
----
-title: "mefiagbenu.github.io"
----
+project:
+  type: website
 
-This is a Quarto website.
+website:
+  title: "Michael Edem Fiagbenu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Publications
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
 
-```{r}
-1 + 1
-```
+editor: visual
+
