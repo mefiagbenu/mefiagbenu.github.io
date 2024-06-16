@@ -1,30 +1,93 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Michael Edem Fiagbenu",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "In the news",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Mail\n  \n  \n     ORCID\n  \n  \n     GScholar\nI am currently working as Postdoctoral research & Lecturer at the Friedrich Schiller University Jena"
+    "text": "The Jena Summer School Project\nNew study suggests conservatives are no more fearful or threat-sensitive than liberals"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Michael Edem Fiagbenu",
-    "section": "Education",
-    "text": "Education\n\nDPhil Psychology, 2022\nFriedrich Schiller University Jena\nMSc Neuroscience, 2012\nNorwegian University of Science and Technology\nBSc Psychology, 2009\nUniversity of Ghana"
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I employ a variety of methods (e.g. surveys, lab experiments etc.) to investigate the cognitive, biological and economic foundations of socio-political attitudes and beliefs. Here are some of my interests"
   },
   {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Michael Edem Fiagbenu",
-    "section": "Interests",
-    "text": "Interests\n\nData Analysis\nData Visualisation\nKnowledge Sharing\nLearning New Skills"
+    "objectID": "Research.html#political-ideology-and-intergroup-relations",
+    "href": "Research.html#political-ideology-and-intergroup-relations",
+    "title": "Research",
+    "section": "Political ideology and intergroup relations",
+    "text": "Political ideology and intergroup relations\nThis area of study seeks to understand how political beliefs and values influence interactions between different social, ethnic, and political groups, as well as the consequences of these interactions for social cohesion and conflict."
+  },
+  {
+    "objectID": "Research.html#threat-perception-risk-taking-and-negativity-bias",
+    "href": "Research.html#threat-perception-risk-taking-and-negativity-bias",
+    "title": "Research",
+    "section": "Threat perception, risk-taking and negativity bias",
+    "text": "Threat perception, risk-taking and negativity bias\nThis aread seeks to understand how Threat perception, risk-taking negativity bias shape human behavior, with a particular focus on the broad applications for understanding intergroup relations, anti-democratic behaviors, and political beliefs."
+  },
+  {
+    "objectID": "Research.html#the-antecedents-and-consequences-of-conspiracy-beliefs",
+    "href": "Research.html#the-antecedents-and-consequences-of-conspiracy-beliefs",
+    "title": "Research",
+    "section": "The antecedents and consequences of conspiracy beliefs",
+    "text": "The antecedents and consequences of conspiracy beliefs\nThis area of study seeks to understand the factors that lead individuals to adopt conspiracy theories and the impacts these beliefs have on behavior and society."
+  },
+  {
+    "objectID": "Research.html#in-the-news",
+    "href": "Research.html#in-the-news",
+    "title": "Research",
+    "section": "In the news",
+    "text": "In the news"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Michael Edem Fiagbenu  is a Postdoctoral researcher and Lecturer at the Department of Social Psychology at Friedrich Schiller University Jena."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About me",
+    "section": "",
+    "text": "Michael Edem Fiagbenu  is a Postdoctoral researcher and Lecturer at the Department of Social Psychology at Friedrich Schiller University Jena."
+  },
+  {
+    "objectID": "about.html#qualifications",
+    "href": "about.html#qualifications",
+    "title": "About me",
+    "section": "Qualifications",
+    "text": "Qualifications\n\nDPhil (2022) Psychology, Friedrich Schiller University\nMSc (2012) Neuroscience, Norwegian University of Science and Technology\nBSc (2009) Psychology, University of Ghana\n\nHere is a list of news articles about my research."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Edem Fiagbenu",
+    "section": "",
+    "text": "Michael Edem Fiagbenu Post-doctoral Research and Lecturer Department of Social Psychology Friedrich Schiller Univesity Jena"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "The psychology of political ideology and social inequality\nEmpirical Practicals in Psychology"
+  },
+  {
+    "objectID": "Teaching.html#bachelor-courses",
+    "href": "Teaching.html#bachelor-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "The psychology of political ideology and social inequality\nEmpirical Practicals in Psychology"
+  },
+  {
+    "objectID": "Teaching.html#master-courses",
+    "href": "Teaching.html#master-courses",
+    "title": "Teaching",
+    "section": "Master courses",
+    "text": "Master courses\n\nSocial cognition and social neuroscience\nThe suprising origins and left and right-wing political and conspiracy beliefs"
   }
 ]
