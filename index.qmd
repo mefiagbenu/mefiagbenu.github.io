@@ -1,11 +1,67 @@
 ---
-title: "mefiagbenu.github.io"
+title: "Michael Edem Fiagbenu"
+subtitle: ""
+
+about:
+  id: edu-exp
+  template: solana
+  image: assets/images/headshot.jpg
+  image-width: 10em
+#  image-shape: round
+
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/medemfiagbenu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dr-michael-edem-fiagbenu-968b4b157/
+    - text: Mail
+      href: "mailto:michaeledem.fiagbenu@uni-jena.de"
+      icon: envelope
+    - text: ORCID
+      href: "https://orcid.org/0000-0001-7528-9361"
+      aria-label: "ORCID logo linking to ORCID account"
+    - text: GScholar
+      href: "https://scholar.google.com/citations?user=zy2YrCoAAAAJ&hl=en"
+      aria-label: "Google logo linking to Google Scholar account"
+
+
+
 ---
 
-This is a Quarto website.
+::: {#edu-exp}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently working as Postdoctoral research & Lecturer
+ at the Friedrich Schiller University Jena
+
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
+## Education
+
+- **DPhil Psychology**, **2022**  
+  Friedrich Schiller University Jena
+
+- **MSc Neuroscience**, **2012**  
+  Norwegian University of Science and Technology
+
+- **BSc Psychology**, **2009**  
+  University of Ghana
+:::
+
+::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
+## Interests
+
+- Data Analysis
+- Data Visualisation
+- Knowledge Sharing
+- Learning New Skills
+:::
+
+::::
 
 ```{r}
-1 + 1
 ```
