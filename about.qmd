@@ -1,9 +1,17 @@
 ---
-title: "About"
+title: "About me"
 ---
+## Bio
 
-About this site
 
-```{r}
-1 + 1
-```
+>**Michael Edem Fiagbenu** <span style="font-size: 10pt;"></span> is a Postdoctoral researcher and Lecturer at the [Department of Social Psychology](https://www.sozpsy.uni-jena.de/en/407/michael-edem-fiagbenu) at [Friedrich Schiller University Jena](https://www.uni-jena.de/en). 
+
+## Qualifications
+
+
+ * DPhil (2022) Psychology, Friedrich Schiller University
+ * MSc (2012) Neuroscience, Norwegian University of Science and Technology
+ * BSc (2009) Psychology, University of Ghana
+
+Here is a list of [news articles about my research](../news.qmd).
+

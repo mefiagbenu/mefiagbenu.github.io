@@ -2,16 +2,19 @@ project:
   type: website
 
 website:
-  title: "mefiagbenu.github.io"
+  title: "MEF"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - Research.qmd
+      - publications.qmd
+      - Teaching.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
     css: styles.css
     toc: true
 

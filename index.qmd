@@ -4,64 +4,31 @@ subtitle: ""
 
 about:
   id: edu-exp
-  template: solana
+  template: trestles
   image: assets/images/headshot.jpg
-  image-width: 10em
-#  image-shape: round
+  image-width: 15em
+  #image-shape: round
 
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/medemfiagbenu
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/dr-michael-edem-fiagbenu-968b4b157/
-    - text: Mail
-      href: "mailto:michaeledem.fiagbenu@uni-jena.de"
-      icon: envelope
+    - icon: google scholar
+      href: "https://scholar.google.com/citations?user=zy2YrCoAAAAJ&hl=en"
     - text: ORCID
       href: "https://orcid.org/0000-0001-7528-9361"
       aria-label: "ORCID logo linking to ORCID account"
-    - text: GScholar
-      href: "https://scholar.google.com/citations?user=zy2YrCoAAAAJ&hl=en"
-      aria-label: "Google logo linking to Google Scholar account"
-
+    - icon: github
+      text: GitHub
+      href: https://github.com/mefiagbenu
+    - icon: envelope
+      text: Mail
+      href: "mailto:michaeledem.fiagbenu@uni-jena.de"
+  
 
 
 ---
 
-::: {#edu-exp}
-:::
-
-I am currently working as Postdoctoral research & Lecturer
- at the Friedrich Schiller University Jena
-
-
-:::: {.grid}
-
-::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
-## Education
-
-- **DPhil Psychology**, **2022**  
-  Friedrich Schiller University Jena
-
-- **MSc Neuroscience**, **2012**  
-  Norwegian University of Science and Technology
-
-- **BSc Psychology**, **2009**  
-  University of Ghana
-:::
-
-::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
-## Interests
-
-- Data Analysis
-- Data Visualisation
-- Knowledge Sharing
-- Learning New Skills
-:::
-
-::::
-
-```{r}
-```
+<div class="about-link-text">
+**Michael&nbsp;Edem&nbsp;Fiagbenu**<br>
+Post-doctoral Research and Lecturer<br>
+[Department of Social Psychology](https://www.sozpsy.uni-jena.de/en/407/michael-edem-fiagbenu)<br>
+[Friedrich Schiller Univesity Jena](https://www.uni-jena.de/en)
+</div>
