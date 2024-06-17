@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Publications by Michael Edem Fiagbenu</title>
+<link>https://mefiagbenu.github.io/publications/</link>
+<atom:link href="https://mefiagbenu.github.io/publications/index.xml" rel="self" type="application/rss+xml"/>
+<description>Working papers and published articles by Dr Michael Edem Fiagbenu</description>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Thu, 04 Apr 2024 04:27:50 GMT</lastBuildDate>
+<item>
+  <title>Taking Stock and Looking Forward to the Future of Pathogen Politics in Light of New Insights and Recommendations_COVID-19 Threat Was Meaningfully Associated With Support for Liberal Policies in the United States</title>
+  <dc:creator>Fiagbenu, M E</dc:creator>
+  <link>https://mefiagbenu.github.io/publications/COVID-19 and politics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Articles</category>
+  <guid>https://mefiagbenu.github.io/publications/COVID-19 and politics/</guid>
+  <pubDate>Thu, 04 Apr 2024 04:27:50 GMT</pubDate>
+</item>
+<item>
+  <title>Of deadly beans and risky stocks_Political ideology and attitude formation via exploration depend on the nature of the attitude stimuli</title>
+  <dc:creator>Fiagbenu, M E, Proch, J, Kessler, T</dc:creator>
+  <link>https://mefiagbenu.github.io/publications/Political-ideology-and-attitude-formation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Articles</category>
+  <guid>https://mefiagbenu.github.io/publications/Political-ideology-and-attitude-formation/</guid>
+  <pubDate>Sat, 16 Oct 2021 04:27:50 GMT</pubDate>
+</item>
+</channel>
+</rss>

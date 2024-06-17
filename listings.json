@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/Research.html",
+      "/index.html",
+      "/publications/index.html",
+      "/about/about.html",
+      "/Teaching.html",
+      "/news.html",
+      "/publications/COVID-19 and politics/index.html",
+      "/publications/Political-ideology-and-attitude-formation/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/COVID-19 and politics/index.html",
+      "/publications/Political-ideology-and-attitude-formation/index.html"
+    ]
+  }
+]
