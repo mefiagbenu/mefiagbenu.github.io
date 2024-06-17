@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/publicationscan.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/COVID-19 and politics/index.html",
+      "/publications/Political-ideology-and-attitude-formation/index.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/Teaching.html",
@@ -8,13 +19,7 @@
       "/news.html",
       "/about/about.html",
       "/index.html",
-      "/publications/COVID-19 and politics/index.html",
-      "/publications/Political-ideology-and-attitude-formation/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
+      "/publicationscan.html",
       "/publications/COVID-19 and politics/index.html",
       "/publications/Political-ideology-and-attitude-formation/index.html"
     ]
