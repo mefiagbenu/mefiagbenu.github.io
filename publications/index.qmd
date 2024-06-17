@@ -1,12 +1,12 @@
 ---
-pagetitle: "Rob J Hyndman - Publications"
+pagetitle: "Michael Edem Fiagbenu - Publications"
 listing:
   contents: "."
   template: pubs.ejs
   sort: "date desc"
   feed:
-    title: "Publications by Rob J Hyndman"
-    description: "Working papers and published articles by Professor Rob J Hyndman"
+    title: "Publications by Michael Edem Fiagbenu"
+    description: "Working papers and published articles by Dr Michael Edem Fiagbenu"
   categories: true
   sort-ui: false
   filter-ui: [date, title, author, details]

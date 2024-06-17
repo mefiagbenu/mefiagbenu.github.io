@@ -1,14 +1,11 @@
 ---
-author: Jan G De Gooijer, Rob J Hyndman
+author: Fiagbenu, M E
 Status: Published
-date: 2006-07-16 04:27:50+00:00
-slug: 25-years-of-time-series-forecasting
-title: 25 years of time series forecasting
+date: 2024-04-04 04:27:50+00:00
+slug: Taking Stock and Looking Forward to the Future of Pathogen Politics in Light of New Insights and Recommendations_COVID-19 Threat Was Meaningfully Associated With Support for Liberal Policies in the United States
+title: Taking Stock and Looking Forward to the Future of Pathogen Politics in Light of New Insights and Recommendations_COVID-19 Threat Was Meaningfully Associated With Support for Liberal Policies in the United States
 wordpress_id: 456
 categories: Articles
-tags:
-- forecasting
-- time series
-details: <em>International Journal of Forecasting</em> <b>22</b>(3), 443-473
-doi: 10.1016/j.ijforecast.2006.01.001
+details: <em>Personality and Social Psychology Bulletin</em> <b></b>, 1-19
+doi: 10.1177/01461672241240903
 ---
