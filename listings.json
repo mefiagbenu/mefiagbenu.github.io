@@ -5,12 +5,17 @@
       "/Research.html",
       "/index.html",
       "/publications/index.html",
+      "/publicationscan.html",
       "/about/about.html",
       "/Teaching.html",
       "/news.html",
       "/publications/COVID-19 and politics/index.html",
       "/publications/Political-ideology-and-attitude-formation/index.html"
     ]
+  },
+  {
+    "listing": "/publicationscan.html",
+    "items": []
   },
   {
     "listing": "/publications/index.html",
