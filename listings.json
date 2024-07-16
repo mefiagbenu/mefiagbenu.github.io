@@ -2,13 +2,13 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/Research.html",
-      "/index.html",
-      "/publications/index.html",
       "/publicationscan.html",
-      "/about/about.html",
-      "/Teaching.html",
+      "/Research.html",
+      "/publications/index.html",
       "/news.html",
+      "/Teaching.html",
+      "/index.html",
+      "/about/about.html",
       "/publications/COVID-19 and politics/index.html",
       "/publications/Political-ideology-and-attitude-formation/index.html"
     ]
