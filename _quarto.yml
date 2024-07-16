@@ -8,8 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - Research.qmd
-     # - href: publications/index.qmd
-     #   text: Publications      
+      - href: publications/index.qmd
+        text: Publications      
       - Teaching.qmd
       - text: Publications
         href: publicationscan.qmd
